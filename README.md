@@ -194,8 +194,8 @@ git diff > cambios-sin-commit.patch
 
 **Actividad:** genera `cambio.patch` a partir de dos commits y ábrelo como texto. Identifica las líneas que comienzan con `+` y `-` y explica qué representan.
 
-- [ ] Generé un archivo `.patch` con `git diff`.
-- [ ] Inspeccioné el parche y expliqué sus diferencias.
+- [x] Generé un archivo `.patch` con `git diff`.
+- [x] Inspeccioné el parche y expliqué sus diferencias.
 
 Los archivos `.patch` de este ejercicio también están excluidos por `.gitignore`, porque son productos temporales de práctica. Si necesitas entregarlo, agrégalo explícitamente con `git add -f nombre.patch`.
 
