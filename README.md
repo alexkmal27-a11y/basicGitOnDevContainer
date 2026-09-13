@@ -139,9 +139,9 @@ git commit
 
 **Actividad:** en `mejora-instrucciones`, agrega una aclaración breve al README. Después integra la rama en `main` y comprueba el historial con `git log --oneline --all --decorate`.
 
-- [ ] Creé la rama `mejora-instrucciones`.
-- [ ] Creé un commit dentro de esa rama.
-- [ ] Regresé a `main` y combiné la rama con `git merge`.
+- [x] Creé la rama `mejora-instrucciones`.
+- [x] Creé un commit dentro de esa rama.
+- [x] Regresé a `main` y combiné la rama con `git merge`.
 
 ## 6. Compartir y recibir cambios
 
@@ -168,9 +168,9 @@ Antes de usar `push` o `pull`, confirma que tienes permiso de acceso y que sabes
 
 **Actividad:** no ejecutes `push` sobre un repositorio ajeno sin autorización. Si tienes un remoto de práctica, publica tu rama; después ejecuta `git pull` y registra si había cambios nuevos. Si no tienes permisos, muestra la salida de `git remote -v` y explica por qué no puedes publicar.
 
-- [ ] Revisé el remoto y las ramas disponibles.
-- [ ] Intenté o realicé un `push` con autorización.
-- [ ] Ejecuté `git pull` y comprendí su resultado.
+- [x] Revisé el remoto y las ramas disponibles.
+- [x] Intenté o realicé un `push` con autorización.
+- [x] Ejecuté `git pull` y comprendí su resultado.
 
 ## 7. Generar un archivo de parche
 
