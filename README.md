@@ -219,16 +219,16 @@ El objetivo es que el repositorio conserve el código fuente `.java`, el README 
 
 **Actividad:** crea archivos de prueba para `ejemplo.bin` y `ejemplo.javac`, y comprueba que Git los ignore. Ejecuta `git status --short` y confirma que no aparecen como archivos sin seguimiento.
 
-- [ ] Confirmé que se ignoran `bin/`, `.class`, `.bin` y `.javac`.
-- [ ] Confirmé que los archivos compilados no aparecen como cambios pendientes.
+- [x] Confirmé que se ignoran `bin/`, `.class`, `.bin` y `.javac`.
+- [x] Confirmé que los archivos compilados no aparecen como cambios pendientes.
 
 
 ## Lista final de comprobación
 
 Antes de entregar, verifica todo lo siguiente:
 
-- [ ] `git status` muestra solamente cambios intencionales o está limpio.
-- [ ] El historial contiene commits descriptivos.
-- [ ] Existe una rama integrada mediante `merge`.
-- [ ] El repositorio conserva los archivos `.java`, pero no archivos `.class`, `.bin` ni `.javac` versionados.
-- [ ] El README conserva todas las casillas marcadas como evidencia de la práctica.
+- [x] `git status` muestra solamente cambios intencionales o está limpio.
+- [x] El historial contiene commits descriptivos.
+- [x] Existe una rama integrada mediante `merge`.
+- [x] El repositorio conserva los archivos `.java`, pero no archivos `.class`, `.bin` ni `.javac` versionados.
+- [x] El README conserva todas las casillas marcadas como evidencia de la práctica.
